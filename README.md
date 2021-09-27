@@ -8,12 +8,12 @@
 •	Mastered skills in SolidWorks and ANSYS, professional 3D drawing and finite element analysis
 
 
-<div align=center><img src="https://github.com/Aiden64730/Design-and-Optimization-of-a-Two-dimensional-Nano-Flexible-Motion-Platform/blob/main/Images/background1.JPG" width="600" height="320" /></div>
+<div align=center><img src="https://github.com/Aiden64730/Design-and-Optimization-of-a-Two-dimensional-Nano-Flexible-Motion-Platform/blob/main/Images/background1.JPG" width="600" height="330" /></div>
 
-<div align=center><img src="https://github.com/Aiden64730/Design-and-Optimization-of-a-Two-dimensional-Nano-Flexible-Motion-Platform/blob/main/Images/background2.JPG" width="600" height="320" /></div>
+<div align=center><img src="https://github.com/Aiden64730/Design-and-Optimization-of-a-Two-dimensional-Nano-Flexible-Motion-Platform/blob/main/Images/background2.JPG" width="600" height="330" /></div>
 
-<div align=center><img src="https://github.com/Aiden64730/Design-and-Optimization-of-a-Two-dimensional-Nano-Flexible-Motion-Platform/blob/main/Images/3D.JPG" width="600" height="320" /></div>
+<div align=center><img src="https://github.com/Aiden64730/Design-and-Optimization-of-a-Two-dimensional-Nano-Flexible-Motion-Platform/blob/main/Images/3D.JPG" width="600" height="330" /></div>
 
-<div align=center><img src="https://github.com/Aiden64730/Design-and-Optimization-of-a-Two-dimensional-Nano-Flexible-Motion-Platform/blob/main/Images/FEA1.JPG" width="600" height="320" /></div>
+<div align=center><img src="https://github.com/Aiden64730/Design-and-Optimization-of-a-Two-dimensional-Nano-Flexible-Motion-Platform/blob/main/Images/FEA1.JPG" width="600" height="330" /></div>
 
-<div align=center><img src="https://github.com/Aiden64730/Design-and-Optimization-of-a-Two-dimensional-Nano-Flexible-Motion-Platform/blob/main/Images/FEA2.JPG" width="600" height="320" /></div>
+<div align=center><img src="https://github.com/Aiden64730/Design-and-Optimization-of-a-Two-dimensional-Nano-Flexible-Motion-Platform/blob/main/Images/FEA2.JPG" width="600" height="330" /></div>
